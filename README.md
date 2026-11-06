@@ -22,4 +22,4 @@ Google Fonts are optional network resources; system fonts are used when unavaila
 
 No authentication or private data is included. GitHub Pages alone cannot securely protect student listings, research projects, early results, or agendas. Select a separate secure member-access service before adding any such resources; never put private data in this public repository.
 
-The repository root is the static site root, prepared for GitHub Pages publishing from `main` and `/`. Intended public URL: https://wentzloff.github.io/ . Publication is pending GitHub write access; the current site has not yet been uploaded or deployed.
+The repository root is the static site root. GitHub Pages publishes from `main` and `/`. Public URL: https://wentzloff.github.io/ .
