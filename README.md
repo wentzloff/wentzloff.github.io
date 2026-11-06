@@ -23,3 +23,9 @@ Google Fonts are optional network resources; system fonts are used when unavaila
 No authentication or private data is included. GitHub Pages alone cannot securely protect student listings, research projects, early results, or agendas. Select a separate secure member-access service before adding any such resources; never put private data in this public repository.
 
 The repository root is the static site root. GitHub Pages publishes from `main` and `/`. Public URL: https://wentzloff.github.io/ .
+
+## Local photo update
+Temporary Michigan football image: Ken Lund, September 26, 2015. CC BY-SA 2.0, https://creativecommons.org/licenses/by-sa/2.0/ . Original downloaded unchanged; CSS crops its displayed frame. Source: https://commons.wikimedia.org/wiki/File:University_of_Michigan_Football_Team_Taking_the_Field,_Michigan_Stadium,_University_of_Michigan,_Ann_Arbor,_Michigan_(21733038192).jpg .
+
+## Faculty portraits
+Nine illustrated transparent portraits in `assets/faculty/` were created using the built-in image generation tool from the official Michigan ECE directory photos. The selected layout displays them 40% smaller than the first local design. Local reference photographs, generation prompts, and unused comparison assets are excluded from publication.
